@@ -16,6 +16,7 @@ Steps I thought of and executed for calculating the Value at Risk for the histor
       </ol>
  <li>Get the percentile of the calculated periodic return based off the confidence value</li>
  <ol>
+    <li> This percentile is the Value at Risk for the historical values of this trade</li>
     <li>Percentile was calculated with the nearest rank formula and method </li>
     <img src = "https://i.stack.imgur.com/empSB.jpg"/>
  </ol>
